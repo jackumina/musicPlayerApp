@@ -4,7 +4,7 @@ This is project is essentially a Spotify clone.
 
 This repo holds two projects, both run a clone:
 - usingSpotifyAPI- folder holds the clone that uses Spotify's open source API, implemented with node.js and react.js
-- usingMyAPI- folder holds the clone that uses an API I created, implemented with node.js and ...
+- usingMyAPI- folder holds the clone that uses an API I created, implemented with node.js, MondoDB, and ...
 
 
 How to run:
