@@ -12,11 +12,10 @@ How to run:
   - usingSpotifyAPI
 
     - Download this repo
-    - Navigate to the usingSpotifyAPI folder in the terminal
-    - Type 'npm install' to download all the dependecies of this project
-    - Type 'npm start' or 'node index.js', the port number will appear on the next line
-    - Then cd into the client folder and type 'npm install' followed by 'npm start'
-    - The browser page at port: 3000 should appear for you
+    - Navigate to the usingSpotifyAPI folder
+    - cd to server folder, 'npm install' then 'npm start'
+    - cd to client folder, 'npm install' then 'npm start'
+    - app should appear in your browser, if not, go to localhost:3000 in your browser and it should pop up
 
   - usingMyAPI
 
